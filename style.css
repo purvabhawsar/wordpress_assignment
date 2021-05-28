@@ -1,0 +1,85 @@
+#div1
+{
+height: 60px; width: auto; background-color: #bfff80;}
+.sur{
+    	font-size: 25px;
+    	float: left;
+    	padding: 8px 0px 0px 20px;
+    	color:#1a1aff;
+    }
+  .menu ul{
+  	list-style-type: none;
+  }
+  .menu ul li{
+  	
+  	display: flex;
+  	float: right;
+  	padding: 12px 10px 0px 30px;
+  	font-size: 15px;
+  	font-weight: bolder;
+  
+  }
+  .sl1{
+  	height: 500px;
+  	width: auto;
+  	background-color: white;
+  	margin-top: 20px;
+  }
+  .sl1 img{
+	height: 500px;
+	width: 100%;
+
+}
+.sl1 .mySlides{
+	display: absolute;
+	background-size: 100% 100%;
+}
+.slidetext{
+	color: white;
+	padding: 0 auto;
+	font-size: 30px;
+	font-weight: bolder;
+}
+.content{
+	min-height: 400px;
+	width: auto;
+	margin-top: 20px;
+	background-color: #004400;
+}
+.f{
+	font-size: 20px;
+	color: #bfff80;
+	text-align: center;
+	padding-top: 10px;
+}
+.footer{
+    height: 600px;
+    width: auto;
+    background-color: #bfff80;
+    
+   
+ 
+   
+    margin-top: 30px;
+  }
+  .footdiv{
+    min-height: 500px;
+    width: 500px;
+    background-color: green;
+    opacity: 0.4;
+    
+    margin: auto;
+    background-image: url(http://localhost/wordpress/wordpress/wp-content/uploads/2021/05/a7.jpg);
+    background-size: 100% 100%;
+    
+     }
+     .lh{
+      color: black;
+      text-align: center;
+      padding-top: 10px;
+
+     }
+     .lc{
+      color: black;
+      text-align: center;
+     }
